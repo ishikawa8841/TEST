@@ -1,0 +1,161 @@
+2015-10-08 15:47:44.7744|ERROR|thread:28|ComparisonGraph|JavaScript Alert from the comparison graph: http://github-app/: TypeError: Cannot read property 'selectCommit' of null
+2015-10-08 15:44:51.8964|INFO|thread: 1|CommandLineHandler|Parsing command line arguments:http://github-windows.s3.amazonaws.com/GitHub.application
+2015-10-08 15:44:51.9124|INFO|thread: 1|AppInstanceCommunicator|Starting up as master instance of GitHub Desktop
+2015-10-08 15:44:52.1314|INFO|thread: 4|StartupLogging| #########################################
+2015-10-08 15:44:52.1314|INFO|thread: 4|StartupLogging| GitHub Desktop started. VERSION: 3.0.5.2
+2015-10-08 15:44:52.1314|INFO|thread: 4|StartupLogging| Build version: a0622a5279b4491e0f43dbed6bd0709d1b40123e
+2015-10-08 15:44:52.1314|INFO|thread: 4|StartupLogging| ***************************************
+2015-10-08 15:44:52.1314|INFO|thread: 4|StartupLogging| ***                                 ***
+2015-10-08 15:44:52.1314|INFO|thread: 4|StartupLogging| ***                                 ***
+2015-10-08 15:44:52.1314|INFO|thread: 4|StartupLogging| ***        Have a problem?          ***
+2015-10-08 15:44:52.1314|INFO|thread: 4|StartupLogging| ***    Email support@github.com     ***
+2015-10-08 15:44:52.1314|INFO|thread: 4|StartupLogging| ***      and include this file      ***
+2015-10-08 15:44:52.1314|INFO|thread: 4|StartupLogging| ***                                 ***
+2015-10-08 15:44:52.1314|INFO|thread: 4|StartupLogging| ***                                 ***
+2015-10-08 15:44:52.1314|INFO|thread: 4|StartupLogging| ***************************************
+2015-10-08 15:44:52.1314|INFO|thread: 4|StartupLogging| OS Version: Windows 7 Service Pack 1 6.1.7601.65536 amd64
+2015-10-08 15:44:52.1314|INFO|thread: 4|StartupLogging| CLR Version: 4.0.30319.42000
+2015-10-08 15:44:52.1314|INFO|thread: 4|StartupLogging| Current culture: ja-JP
+2015-10-08 15:44:52.1314|INFO|thread: 4|StartupLogging| Terminal Services session: no
+2015-10-08 15:44:52.1314|INFO|thread: 4|StartupLogging| Location: C:\Users\usr10049220\AppData\Local\Apps\2.0\OQZMCOTE.97T\B7KV40DC.4RM\gith..tion_317444273a93ac29_0003.0000_30c6a4a3ecafb094\GitHub.exe
+2015-10-08 15:44:52.2524|INFO|thread: 1|HardwareRenderingHelper|Making a WMI query to discover any video PNPID entries
+2015-10-08 15:44:52.2794|INFO|thread: 4|StartupLogging| ActivationUri: https://github-windows.s3.amazonaws.com/GitHub.application
+2015-10-08 15:44:52.2794|INFO|thread: 4|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2015-10-08 15:44:52.2794|INFO|thread: 4|GitEnvironment|PATH is C:\Users\usr10049220\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\usr10049220\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\usr10049220\AppData\Local\Apps\2.0\OQZMCOTE.97T\B7KV40DC.4RM\gith..tion_317444273a93ac29_0003.0000_30c6a4a3ecafb094;C:\Users\usr10049220\AppData\Local\GitHub\lfs-amd64_0.5.4;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Program Files (x86)\Google\Chrome\Application;C:\Java64\jdk1.6.0_33\bin;C:\apache-maven-3.0.4\bin;C:\Program Files (x86)\SCE\Common\SN-DBS\bin;C:\usr\local\cell\host-win32\sn\bin;C:\usr\local\cell\host-win32\bin;C:\usr\local\cell\host-win32\Cg\bin;C:\usr\local\cell\host-win32\spu\bin;C:\usr\local\cell\host-win32\ppu\bin;C:\Program Files (x86)\SN Systems\PS3\bin;C:\Program Files (x86)\SCE\ORBIS SDKs\2.000\host_tools\bin;C:\Program Files (x86)\SCE\Common\SceVSI-VS11\bin;C:\Program Files (x86)\SCE\ORBIS\Tools\Publishing Tools\bin;C:\Program Files (x86)\SCE\ORBIS\Tools\Target Manager Server\bin;C:\Program Files (x86)\SCE\Common\SceVSI\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\Cg\bin;C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Utilities\bin\x86\;C:\Program Files (x86)\NVIDIA Corporation\Cg\bin.x64;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\TortoiseGit\bin;C:\Python26;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Xoreax\IncrediBuild;C:\Program Files\Perforce;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\TortoiseSVN\bin;C:\Windows\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\nodejs\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;;Z:\toolbox\bin;Z:\toolbox\bin\AlienbrainCommandLineTool;Z:\tpp\toolbox\bin;C:\Users\usr10049220\AppData\Roaming\npm
+2015-10-08 15:44:52.2904|INFO|thread: 4|StartupLogging| =====================================================
+2015-10-08 15:44:52.2904|INFO|thread: 4|StartupLogging|  DIAGNOSTICS                                        |
+2015-10-08 15:44:52.2904|INFO|thread: 4|StartupLogging| =====================================================
+2015-10-08 15:44:52.2904|INFO|thread: 4|StartupLogging| Git Extracted: 'False:
+2015-10-08 15:44:52.2904|ERROR|thread: 4|StartupLogging| MISSING PortableGit Dir: 'C:\Users\usr10049220\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad'
+2015-10-08 15:44:52.2904|ERROR|thread: 4|PortableGitManager|git.exe doesn't exist at 'C:\Users\usr10049220\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe'
+2015-10-08 15:44:52.2904|ERROR|thread: 4|StartupLogging| MISSING Git Executable: 'C:\Users\usr10049220\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe'
+2015-10-08 15:44:52.2904|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'C:\Users\usr10049220\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd'
+2015-10-08 15:44:52.2904|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'C:\Users\usr10049220\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin'
+2015-10-08 15:44:52.2904|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'C:\Users\usr10049220\AppData\Local\GitHub\lfs-amd64_0.5.4'
+2015-10-08 15:44:52.2904|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'C:\Windows\system32\config\systemprofile\.dnx\bin'
+2015-10-08 15:44:52.2904|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'C:\Users\usr10049220\AppData\Roaming\npm'
+2015-10-08 15:44:52.2904|INFO|thread: 4|StartupLogging| ----------------------------------------------------
+2015-10-08 15:44:52.2904|INFO|thread: 4|StartupLogging| PATH: C:\Program Files (x86)\Google\Chrome\Application;C:\Java64\jdk1.6.0_33\bin;C:\apache-maven-3.0.4\bin;C:\Program Files (x86)\SCE\Common\SN-DBS\bin;C:\usr\local\cell\host-win32\sn\bin;C:\usr\local\cell\host-win32\bin;C:\usr\local\cell\host-win32\Cg\bin;C:\usr\local\cell\host-win32\spu\bin;C:\usr\local\cell\host-win32\ppu\bin;C:\Program Files (x86)\SN Systems\PS3\bin;C:\Program Files (x86)\SCE\ORBIS SDKs\2.000\host_tools\bin;C:\Program Files (x86)\SCE\Common\SceVSI-VS11\bin;C:\Program Files (x86)\SCE\ORBIS\Tools\Publishing Tools\bin;C:\Program Files (x86)\SCE\ORBIS\Tools\Target Manager Server\bin;C:\Program Files (x86)\SCE\Common\SceVSI\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\Cg\bin;C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Utilities\bin\x86\;C:\Program Files (x86)\NVIDIA Corporation\Cg\bin.x64;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\TortoiseGit\bin;C:\Python26;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Xoreax\IncrediBuild;C:\Program Files\Perforce;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\TortoiseSVN\bin;C:\Windows\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\nodejs\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;;Z:\toolbox\bin;Z:\toolbox\bin\AlienbrainCommandLineTool;Z:\tpp\toolbox\bin;C:\Users\usr10049220\AppData\Roaming\npm
+2015-10-08 15:44:52.3064|INFO|thread: 1|HardwareRenderingHelper|Your video card appears to support hardware rendering. If this isn't the case and you see glitches
+2015-10-08 15:44:52.3064|INFO|thread: 1|HardwareRenderingHelper|set the GH_FORCE_SW_RENDERING environment variable to 1
+2015-10-08 15:44:52.3064|INFO|thread: 4|StartupLogger|Proxy information: http://proxy.konami:8080/
+2015-10-08 15:44:52.3064|INFO|thread: 4|StartupLogger|Couldn't fetch creds for proxy
+2015-10-08 15:44:52.7904|INFO|thread: 4|UrlProtocolInstaller|Registered UrlAppLauncher protocol: "C:\Users\usr10049220\AppData\Local\Apps\2.0\OQZMCOTE.97T\B7KV40DC.4RM\gith..tion_317444273a93ac29_0003.0000_30c6a4a3ecafb094\GitHub.exe" -u="%1"
+2015-10-08 15:44:52.7904|INFO|thread: 4|ShortcutManager|Shortcut 'C:\Users\usr10049220\AppData\Local\GitHub\GitHub.appref-ms' missing. Assuming a first run.
+2015-10-08 15:44:52.7904|INFO|thread: 4|ShortcutManager|Copying the Start Menu shortcut 'C:\Users\usr10049220\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\GitHub, Inc\GitHub.appref-ms' to 'C:\Users\usr10049220\AppData\Local\GitHub\GitHub.appref-ms'
+2015-10-08 15:44:52.8554|INFO|thread: 4|ShortcutManager|Saving the Git Shell shortcut C:\Users\usr10049220\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\GitHub, Inc\Git Shell.lnk
+2015-10-08 15:44:52.8554|INFO|thread: 4|ShortcutManager|Saving the Git Shell shortcut C:\Users\usr10049220\Desktop\Git Shell.lnk
+2015-10-08 15:44:52.9214|INFO|thread: 4|ProcessWrapper|Starting: Process - FileName: 'C:\Users\usr10049220\AppData\Local\Apps\2.0\OQZMCOTE.97T\B7KV40DC.4RM\gith..tion_317444273a93ac29_0003.0000_30c6a4a3ecafb094\7za.exe', Args: 'x -y "-oC:\Users\usr10049220\AppData\Local\GitHub\ptmpajxr.jdl.deleteme" "C:\Users\usr10049220\AppData\Local\Apps\2.0\OQZMCOTE.97T\B7KV40DC.4RM\gith..tion_317444273a93ac29_0003.0000_30c6a4a3ecafb094\PortableGit.7z"', Working Directory: 
+2015-10-08 15:44:52.9214|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\usr10049220\AppData\Local\Apps\2.0\OQZMCOTE.97T\B7KV40DC.4RM\gith..tion_317444273a93ac29_0003.0000_30c6a4a3ecafb094\7za.exe', Args: 'x -y "-oC:\Users\usr10049220\AppData\Local\GitHub\1y1wadaf.dj5.deleteme" "C:\Users\usr10049220\AppData\Local\Apps\2.0\OQZMCOTE.97T\B7KV40DC.4RM\gith..tion_317444273a93ac29_0003.0000_30c6a4a3ecafb094\tutorial.7z"', Working Directory: 
+2015-10-08 15:44:52.9774|INFO|thread: 4|PortablePackageManager|Extracting PortableGit.7z is (so far) successful
+2015-10-08 15:44:52.9774|INFO|thread: 1|PortablePackageManager|Extracting tutorial.7z is (so far) successful
+2015-10-08 15:44:52.9774|INFO|thread: 1|App|Checking whether application is network deployed.
+2015-10-08 15:44:53.0654|INFO|thread:19|PortablePackageManager|Extracted package successfully: tutorial.7z
+2015-10-08 15:44:53.0714|INFO|thread: 1|ClickOnceAppIconHelper|Updating registry with our application icon 'C:\Users\usr10049220\AppData\Local\Apps\2.0\OQZMCOTE.97T\B7KV40DC.4RM\gith..tion_317444273a93ac29_0003.0000_30c6a4a3ecafb094\Images\App.ico'
+2015-10-08 15:44:54.8724|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.ShellViewModel.
+2015-10-08 15:44:54.8724|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.DashboardViewModel.
+2015-10-08 15:44:56.1264|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\usr10049220\AppData\Local\Apps\2.0\OQZMCOTE.97T\B7KV40DC.4RM\gith..tion_317444273a93ac29_0003.0000_30c6a4a3ecafb094\7za.exe', Args: 'x -y "-oC:\Users\usr10049220\AppData\Local\GitHub\2ado3x23.csq.deleteme" "C:\Users\usr10049220\AppData\Local\Apps\2.0\OQZMCOTE.97T\B7KV40DC.4RM\gith..tion_317444273a93ac29_0003.0000_30c6a4a3ecafb094\gitignore.7z"', Working Directory: 
+2015-10-08 15:44:56.1264|INFO|thread: 1|PortablePackageManager|Extracting gitignore.7z is (so far) successful
+2015-10-08 15:44:57.1734|INFO|thread:18|PortablePackageManager|Extracted package successfully: gitignore.7z
+2015-10-08 15:44:57.7914|WARN|thread: 1|LoginCache|Could not get login for host 'GitHub.HostAddress'
+System.Collections.Generic.KeyNotFoundException: The given key 'login:github.com' was not present in the cache.
+2015-10-08 15:44:57.7914|WARN|thread: 7|LoginCache|Could not get login for host 'GitHub.HostAddress'
+System.Collections.Generic.KeyNotFoundException: The given key 'login:null' was not present in the cache.
+2015-10-08 15:44:58.0184|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.WelcomeWizardViewModel.
+2015-10-08 15:44:58.0714|INFO|thread:27|DashboardViewModel|Selected repository '/Tutorial'
+2015-10-08 15:44:58.1544|INFO|thread:27|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 1:GitClient.cs:663
+2015-10-08 15:44:58.1544|INFO|thread:18|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 1:GitClient.cs:663 after waiting 0.0013319s
+2015-10-08 15:44:58.1544|INFO|thread:27|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation: 2:GitClient.cs:641
+2015-10-08 15:44:58.2854|INFO|thread:25|AsyncReaderWriterLock|Released concurrent scheduler for operation: 1:GitClient.cs:663 after blocking 0.1296209s
+2015-10-08 15:44:58.2854|INFO|thread:25|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 2:GitClient.cs:641 after waiting 0.1290013s
+2015-10-08 15:45:03.0694|INFO|thread:17|SoftwareUpdateViewModel|Checking for new version
+2015-10-08 15:45:06.4834|INFO|thread:15|PortablePackageManager|Extracted package successfully: PortableGit.7z
+2015-10-08 15:45:06.6114|INFO|thread:25|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 3:GitClient.cs:222
+2015-10-08 15:45:06.6114|INFO|thread:25|DashboardViewModel|Took 8526ms to Create RepositoryViewModel for location C:\Users\usr10049220\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo
+2015-10-08 15:45:06.6114|INFO|thread:25|AsyncReaderWriterLock|Released exclusive scheduler for operation: 2:GitClient.cs:641 after blocking 8.3274989s
+2015-10-08 15:45:06.8134|INFO|thread:15|MsysGitCertificateInstaller|Generated certificate cache with 162 certificates
+2015-10-08 15:45:06.8134|INFO|thread:15|MsysGitCertificateInstaller|Created certificate bundle with 182 entries
+2015-10-08 15:45:06.8134|INFO|thread: 4|StartupSequence|Took 13961ms to Update certificate bundle from system store
+2015-10-08 15:45:06.8134|INFO|thread:15|ProcessWrapper|Starting: Process - FileName: 'C:\Users\usr10049220\AppData\Local\Apps\2.0\OQZMCOTE.97T\B7KV40DC.4RM\gith..tion_317444273a93ac29_0003.0000_30c6a4a3ecafb094\7za.exe', Args: 'x -y "-oC:\Users\usr10049220\AppData\Local\GitHub\wkt3uqud.jim.deleteme" "C:\Users\usr10049220\AppData\Local\Apps\2.0\OQZMCOTE.97T\B7KV40DC.4RM\gith..tion_317444273a93ac29_0003.0000_30c6a4a3ecafb094\lfs-amd64.7z"', Working Directory: 
+2015-10-08 15:45:06.8294|INFO|thread:15|PortablePackageManager|Extracting lfs-amd64.7z is (so far) successful
+2015-10-08 15:45:06.9884|INFO|thread: 4|PortablePackageManager|Extracted package successfully: lfs-amd64.7z
+2015-10-08 15:45:07.0904|INFO|thread:25|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 3:GitClient.cs:222 after waiting 0.4788852s
+2015-10-08 15:45:07.0944|INFO|thread:25|GitClient|Loading commits for repo: C:\Users\usr10049220\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo
+2015-10-08 15:45:07.1204|INFO|thread:25|ConcurrentRepositoryConnection|Loaded '1' commits for repo: C:\Users\usr10049220\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo\.
+2015-10-08 15:45:07.4914|INFO|thread:25|AsyncReaderWriterLock|Released concurrent scheduler for operation: 3:GitClient.cs:222 after blocking 0.4013133s
+2015-10-08 15:45:08.0244|INFO|thread: 1|GitClient|Installing git lfs filters
+2015-10-08 15:45:08.0284|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2015-10-08 15:45:08.0284|INFO|thread: 1|GitEnvironment|PATH is C:\Users\usr10049220\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\usr10049220\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\usr10049220\AppData\Local\Apps\2.0\OQZMCOTE.97T\B7KV40DC.4RM\gith..tion_317444273a93ac29_0003.0000_30c6a4a3ecafb094;C:\Users\usr10049220\AppData\Local\GitHub\lfs-amd64_0.5.4;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2015-10-08 15:45:08.0284|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\usr10049220\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'lfs init --force ', Working Directory: C:\Users\usr10049220\AppData\Local\Temp\
+2015-10-08 15:45:09.6384|INFO|thread:47|GitHubShellSetupHelper|Wrote GitHubShell setup script here 'C:\Users\usr10049220\AppData\Local\GitHub\shell.ps1'
+2015-10-08 15:45:09.6384|INFO|thread:47|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 4:GitClient.cs:658
+2015-10-08 15:45:12.7764|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 5:GitClient.cs:199
+2015-10-08 15:45:12.7764|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 6:RepositoryModel.cs:596
+2015-10-08 15:45:12.7884|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 7:GitClient.cs:646
+2015-10-08 15:45:14.9974|ERROR|thread:28|ComparisonGraph|JavaScript Alert from the comparison graph: http://github-app/: TypeError: Cannot read property 'selectCommit' of null
+2015-10-08 15:45:29.4804|INFO|thread: 1|RepositoryHost|Log in from cache for login 'ishikawa8841' to host 'https://api.github.com/' SUCCEEDED
+2015-10-08 15:45:29.4964|INFO|thread:12|ApplicationShellInitializer|Running post login tasks. ~/.gitconfig is set up with user.name = 'Ishikawa_Takaaki' and user.email = 'Ishikawa_Takaaki@sol.konami'
+2015-10-08 15:45:29.4964|INFO|thread:17|SSHProcessManager|Starting ssh-agent.exe
+2015-10-08 15:45:29.4964|INFO|thread:17|PortablePackageManager|Already extracted PortableGit.7z, returning 100%
+2015-10-08 15:45:29.4964|INFO|thread:17|PortablePackageManager|Already extracted lfs-amd64.7z, returning 100%
+2015-10-08 15:45:29.5124|INFO|thread: 1|RepositoryHosts|Log in to GitHub.com with username 'ishikawa8841@gmail.com' SUCCEEDED
+2015-10-08 15:45:29.7964|INFO|thread:31|GitEnvironment|Process set up with this SSH Agent info: 15160:/tmp/ssh-zjscCVv3yGJc/agent.17368
+2015-10-08 15:45:29.7964|INFO|thread:31|GitEnvironment|PATH is C:\Users\usr10049220\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\usr10049220\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\usr10049220\AppData\Local\Apps\2.0\OQZMCOTE.97T\B7KV40DC.4RM\gith..tion_317444273a93ac29_0003.0000_30c6a4a3ecafb094;C:\Users\usr10049220\AppData\Local\GitHub\lfs-amd64_0.5.4;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2015-10-08 15:45:30.0404|INFO|thread:31|ProcessWrapper|Starting: Process - FileName: 'C:\Users\usr10049220\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\ssh-add.exe', Args: '"C:\Users\usr10049220\.ssh\github_rsa"', Working Directory: C:\Users\usr10049220\AppData\Local\Temp\
+2015-10-08 15:45:30.1394|ERROR|thread:17|RemoteSSHKeyChain|Failed to set up SSH Agent
+System.AggregateException: 1 つ以上のエラーが発生しました。 ---> GitHub.IO.ProcessException: C:\Users\usr10049220\.ssh\github_rsa: No such file or directory
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   場所 System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   場所 GitHub.PortableGit.Helpers.SSHKeyHelper.<>c__DisplayClasse.<StartSshAgent>b__b()
+   場所 System.Reactive.Linq.QueryLanguage.<>c__DisplayClass13b.<>c__DisplayClass13d.<ToAsync>b__13a()
+---> (内部例外 #0) GitHub.IO.ProcessException: C:\Users\usr10049220\.ssh\github_rsa: No such file or directory<---
+
+2015-10-08 15:45:30.4154|INFO|thread:17|SSHKeyHelper|Couldn't find SSH key pair, generating new ones
+2015-10-08 15:45:30.4154|INFO|thread:17|GitEnvironment|Process set up with this SSH Agent info: 15160:/tmp/ssh-zjscCVv3yGJc/agent.17368
+2015-10-08 15:45:30.4154|INFO|thread:17|GitEnvironment|PATH is C:\Users\usr10049220\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\usr10049220\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\usr10049220\AppData\Local\Apps\2.0\OQZMCOTE.97T\B7KV40DC.4RM\gith..tion_317444273a93ac29_0003.0000_30c6a4a3ecafb094;C:\Users\usr10049220\AppData\Local\GitHub\lfs-amd64_0.5.4;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2015-10-08 15:45:30.4154|INFO|thread:17|ProcessWrapper|Starting: Process - FileName: 'C:\Users\usr10049220\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\ssh-keygen.exe', Args: '-t rsa -N "" -f "C:\Users\usr10049220\.ssh\github_rsa"', Working Directory: C:\Users\usr10049220\AppData\Local\Temp\
+2015-10-08 15:45:31.7974|INFO|thread:25|ApiClient|About to add SSH Key: GitHub Desktop - H0001WV8 - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDLcz68TLzFpgsVa8MFQIeWskUkzbqYL2hMUC7wzNnMswVan0ucony8Rj86qVoGyeB9O70GVyVFDZuLopqR3qmezmtraAWGcKadOzLcH4g4Rj/CcSJP0jcbtyOZYXzLvwN4vcJSO62upFLQCJDDI0q6MrifywKz4et20b5biEuuMzeJGzN1itL6PDKPywaQoesxAv4sMMbOfJWpXnS4P3cJBqxstyihap1C9OwSwmqpdW8QOwI6HgdPq5IobbexWjRc4x5+J/SlZvqp+45CILG2eyJe0ZBbU1XaX4fQ3qapWiLyoh6RrKuJOr8sWqgq/GTg4HBK14R8aroKlAM5T+Lz usr10049220@H0001WV8
+
+2015-10-08 15:45:39.9444|INFO|thread: 1|ReactiveScreen|Deactivating GitHub.ViewModels.WelcomeWizardViewModel.
+2015-10-08 15:45:39.9444|INFO|thread: 1|ReactiveScreen|Closed GitHub.ViewModels.WelcomeWizardViewModel.
+2015-10-08 15:45:39.9844|INFO|thread:48|ProcessWrapper|Starting: Process - FileName: 'C:\Users\usr10049220\AppData\Local\Apps\2.0\OQZMCOTE.97T\B7KV40DC.4RM\gith..tion_317444273a93ac29_0003.0000_30c6a4a3ecafb094\7za.exe', Args: 'x -y "-oC:\Users\usr10049220\AppData\Local\GitHub\3kgwlyv3.1lq.deleteme" "C:\Users\usr10049220\AppData\Local\Apps\2.0\OQZMCOTE.97T\B7KV40DC.4RM\gith..tion_317444273a93ac29_0003.0000_30c6a4a3ecafb094\tutorial.7z"', Working Directory: 
+2015-10-08 15:45:39.9844|INFO|thread:48|PortablePackageManager|Extracting tutorial.7z is (so far) successful
+2015-10-08 15:45:40.0454|INFO|thread:45|PortablePackageManager|Extracted package successfully: tutorial.7z
+2015-10-08 15:46:26.3764|INFO|thread: 1|RepositoryModel|Cloning repo https://github.com/ishikawa8841/MazeOfGame.git
+2015-10-08 15:46:26.3844|INFO|thread: 1|GitLfsSmudgeTail|Setting Git LFS smudge progress environment variable
+2015-10-08 15:46:26.3844|INFO|thread: 1|RepositoryModel|Cloning 'https://github.com/ishikawa8841/MazeOfGame.git' to 'MazeOfGame' in directory 'C:\Users\usr10049220\Documents\GitHub
+2015-10-08 15:46:26.4014|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 15160:/tmp/ssh-zjscCVv3yGJc/agent.17368
+2015-10-08 15:46:26.4014|INFO|thread: 1|GitEnvironment|PATH is C:\Users\usr10049220\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\usr10049220\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\usr10049220\AppData\Local\Apps\2.0\OQZMCOTE.97T\B7KV40DC.4RM\gith..tion_317444273a93ac29_0003.0000_30c6a4a3ecafb094;C:\Users\usr10049220\AppData\Local\GitHub\lfs-amd64_0.5.4;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2015-10-08 15:46:26.4014|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\usr10049220\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'clone --progress --recursive  --  "https://github.com/ishikawa8841/MazeOfGame.git" "MazeOfGame" ', Working Directory: C:\Users\usr10049220\Documents\GitHub
+2015-10-08 15:46:26.4334|INFO|thread:27|DashboardViewModel|Selected repository 'ishikawa8841/MazeOfGame'
+2015-10-08 15:46:26.5844|INFO|thread:27|DashboardViewModel|Took 0ms to Create RepositoryViewModel for location C:\Users\usr10049220\Documents\GitHub\MazeOfGame
+2015-10-08 15:46:27.1984|ERROR|thread:28|ComparisonGraph|JavaScript Alert from the comparison graph: http://github-app/: TypeError: Cannot read property 'selectCommit' of null
+2015-10-08 15:46:27.5294|INFO|thread:25|BackgroundFetcher|Got a refresh period for ishikawa8841/MazeOfGame of 300 seconds
+2015-10-08 15:46:27.5294|INFO|thread:25|BackgroundFetcher|Added a delay for ishikawa8841/MazeOfGame of 3097 milliseconds
+2015-10-08 15:46:47.7864|INFO|thread:40|GitLfsSmudgeTail|Cleaning up Git LFS smudge progress environment variable
+2015-10-08 15:46:47.8164|WARN|thread: 1|StandardUserErrors|Showing user error Please check your log file for more details, or email support if you are still having problems.
+GitHub.IO.ProcessException: Cloning into 'MazeOfGame'...
+fatal: unable to access 'https://github.com/ishikawa8841/MazeOfGame.git/': Failed connect to github.com:443; No error
+2015-10-08 15:46:47.8404|INFO|thread:27|DashboardViewModel|Selected repository '/Tutorial'
+2015-10-08 15:46:47.8404|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 8:RepositoryModel.cs:596
+2015-10-08 15:46:47.9514|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 9:GitClient.cs:646
+2015-10-08 15:46:48.0484|ERROR|thread:28|ComparisonGraph|JavaScript Alert from the comparison graph: http://github-app/: TypeError: Cannot read property 'selectCommit' of null
+2015-10-08 15:47:14.8174|INFO|thread: 8|CrossProcessMessageBus|Another instance started and signaled us.
+2015-10-08 15:47:14.8174|INFO|thread: 8|CommandLineHandler|Another app instance has asked us to clone this repo: 'https://github.com/ishikawa8841/MazeOfGame'
+2015-10-08 15:47:23.4334|INFO|thread: 1|RepositoryModel|Cloning repo https://github.com/ishikawa8841/MazeOfGame.git
+2015-10-08 15:47:23.4334|INFO|thread: 1|GitLfsSmudgeTail|Setting Git LFS smudge progress environment variable
+2015-10-08 15:47:23.4334|INFO|thread: 1|RepositoryModel|Cloning 'https://github.com/ishikawa8841/MazeOfGame.git' to 'MazeOfGame' in directory 'C:\Users\usr10049220\Documents\GitHub
+2015-10-08 15:47:23.4334|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 15160:/tmp/ssh-zjscCVv3yGJc/agent.17368
+2015-10-08 15:47:23.4334|INFO|thread: 1|GitEnvironment|PATH is C:\Users\usr10049220\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\usr10049220\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\usr10049220\AppData\Local\Apps\2.0\OQZMCOTE.97T\B7KV40DC.4RM\gith..tion_317444273a93ac29_0003.0000_30c6a4a3ecafb094;C:\Users\usr10049220\AppData\Local\GitHub\lfs-amd64_0.5.4;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2015-10-08 15:47:23.4334|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\usr10049220\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'clone --progress --recursive  --  "https://github.com/ishikawa8841/MazeOfGame.git" "MazeOfGame" ', Working Directory: C:\Users\usr10049220\Documents\GitHub
+2015-10-08 15:47:23.4474|INFO|thread:27|DashboardViewModel|Selected repository 'ishikawa8841/MazeOfGame'
+2015-10-08 15:47:23.5404|INFO|thread:27|DashboardViewModel|Took 0ms to Create RepositoryViewModel for location C:\Users\usr10049220\Documents\GitHub\MazeOfGame
+2015-10-08 15:47:23.9874|ERROR|thread:28|ComparisonGraph|JavaScript Alert from the comparison graph: http://github-app/: TypeError: Cannot read property 'selectCommit' of null
+2015-10-08 15:47:44.5964|INFO|thread:26|GitLfsSmudgeTail|Cleaning up Git LFS smudge progress environment variable
+2015-10-08 15:47:44.5964|WARN|thread: 1|StandardUserErrors|Showing user error Please check your log file for more details, or email support if you are still having problems.
+GitHub.IO.ProcessException: Cloning into 'MazeOfGame'...
+fatal: unable to access 'https://github.com/ishikawa8841/MazeOfGame.git/': Failed connect to github.com:443; No error
+2015-10-08 15:47:44.6014|INFO|thread:27|DashboardViewModel|Selected repository '/Tutorial'
+2015-10-08 15:47:44.6724|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 10:RepositoryModel.cs:596
+2015-10-08 15:47:44.6724|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 11:GitClient.cs:646
